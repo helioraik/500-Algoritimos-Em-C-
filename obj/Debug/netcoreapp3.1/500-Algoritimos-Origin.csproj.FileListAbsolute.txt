@@ -1,0 +1,11 @@
+/home/helioj/Documentos/500-Algoritimos-Origin/obj/Debug/netcoreapp3.1/500-Algoritimos-Origin.csprojAssemblyReference.cache
+/home/helioj/Documentos/500-Algoritimos-Origin/obj/Debug/netcoreapp3.1/500-Algoritimos-Origin.AssemblyInfoInputs.cache
+/home/helioj/Documentos/500-Algoritimos-Origin/obj/Debug/netcoreapp3.1/500-Algoritimos-Origin.AssemblyInfo.cs
+/home/helioj/Documentos/500-Algoritimos-Origin/bin/Debug/netcoreapp3.1/500-Algoritimos-Origin
+/home/helioj/Documentos/500-Algoritimos-Origin/bin/Debug/netcoreapp3.1/500-Algoritimos-Origin.deps.json
+/home/helioj/Documentos/500-Algoritimos-Origin/bin/Debug/netcoreapp3.1/500-Algoritimos-Origin.runtimeconfig.json
+/home/helioj/Documentos/500-Algoritimos-Origin/bin/Debug/netcoreapp3.1/500-Algoritimos-Origin.runtimeconfig.dev.json
+/home/helioj/Documentos/500-Algoritimos-Origin/bin/Debug/netcoreapp3.1/500-Algoritimos-Origin.dll
+/home/helioj/Documentos/500-Algoritimos-Origin/bin/Debug/netcoreapp3.1/500-Algoritimos-Origin.pdb
+/home/helioj/Documentos/500-Algoritimos-Origin/obj/Debug/netcoreapp3.1/500-Algoritimos-Origin.dll
+/home/helioj/Documentos/500-Algoritimos-Origin/obj/Debug/netcoreapp3.1/500-Algoritimos-Origin.pdb
